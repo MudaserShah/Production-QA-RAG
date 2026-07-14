@@ -1,0 +1,22 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic-settings>=2.0.0
+python-multipart>=0.0.9    # Required for UploadFile (multipart form data)
+
+# LangChain stack
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-huggingface>=0.0.3
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# Vector store
+qdrant-client>=1.9.0
+
+# Embedding models
+sentence-transformers>=3.0.0
+
+# File type loaders
+pypdf>=4.0.0            # PDF loading (PyPDFLoader)
+docx2txt>=0.8           # DOCX loading (Docx2txtLoader)
+unstructured>=0.14.0    # Markdown loading — optional, TextLoader used as fallback

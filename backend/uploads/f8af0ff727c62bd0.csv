@@ -1,0 +1,9 @@
+product_id,product_name,category,price,description
+1,Python Crash Course,Book,29.99,A hands-on project-based introduction to programming
+2,NLP with Transformers,Book,49.99,Building language applications with Hugging Face
+3,Wireless Mouse,Electronics,15.99,Ergonomic wireless mouse with USB receiver
+4,Mechanical Keyboard,Electronics,79.99,RGB mechanical keyboard with Cherry MX switches
+5,Data Science Bootcamp,Course,199.99,Complete data science course from beginner to advanced
+6,LangChain Masterclass,Course,149.99,Build AI applications with LangChain framework
+7,USB-C Hub,Electronics,34.99,7-in-1 USB-C hub with HDMI and ethernet
+8,Clean Code,Book,39.99,A handbook of agile software craftsmanship
